@@ -1,5 +1,5 @@
 <h2> Projeto Fauna Marinha</h2>
-<h3>Case Técnico de Estruturação e Qualificação de Dados</h3>
+<h3>Case Técnico de Gestão de Dados: Estruturação, Qualificação e Visualização</h3>
 Frente: Monitoramento de Tartarugas<br>
 Parceria: CEMAM + Comunidade DS<br>
 Autoria: <a href="https://github.com/JoiceO">Joice Oliveira</a><br><br>
